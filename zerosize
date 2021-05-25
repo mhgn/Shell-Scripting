@@ -1,0 +1,4 @@
+echo "Number Of The File with Zero Size..."
+echo "Files:`find -size 0 | wc -l`\n"
+echo "List Of Files:"
+echo "`find -size 0`"
