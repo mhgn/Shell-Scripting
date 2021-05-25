@@ -1,3 +1,3 @@
 # Shell-Scripting
 
-1.It Display All The File Whose Size Is Zero.
+1.It Display Number Of File Whose Size Is Zero And List All Files.
